@@ -1,0 +1,10 @@
+opencv-python
+ultralytics
+torch
+numpy
+Pillow
+tk
+
+
+------
+pip install opencv-python ultralytics torch numpy Pillow tk
