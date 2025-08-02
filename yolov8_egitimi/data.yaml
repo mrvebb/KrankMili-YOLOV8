@@ -1,14 +1,1 @@
-train: C:/Users/hp/Desktop/krank.v3i.yolov8/train/images
-val: C:/Users/hp/Desktop/krank.v3i.yolov8/valid/images
-test: C:/Users/hp/Desktop/krank.v3i.yolov8/test/images
 
-
-nc: 1
-names: ['krank']
-
-roboflow:
-  workspace: merve-uak9r
-  project: krank
-  version: 3
-  license: CC BY 4.0
-  url: https://universe.roboflow.com/merve-uak9r/krank/dataset/3
